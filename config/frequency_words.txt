@@ -1,26 +1,10 @@
 
 
 DeepSeek
-梁文锋
 
 华为
-鸿蒙
-HarmonyOS
-任正非
 
-比亚迪
-王传福
-
-大疆
-DJI
-
-宇树
-王兴兴
-
-智元
-灵犀
-稚晖君
-彭志辉
+腾讯
 
 黑神话
 冯骥
@@ -30,15 +14,10 @@ DJI
 影之刃零
 梁其伟
 
-京东
-刘强东
-
 字节
 bytedance
-张一鸣
+豆包
 
-特斯拉
-马斯克
 
 微软
 Microsoft
@@ -58,6 +37,8 @@ chatgpt
 openai
 sora
 
+cursor
+
 claude
 Anthropic
 
@@ -73,7 +54,6 @@ agent
 
 自动驾驶
 
-机器人
 
 国产
 中国
@@ -82,13 +62,8 @@ agent
 日本
 韩国
 
-芯片
-光刻机
-
 科技
 
 核能
 
-
-新质生产力
 
